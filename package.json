@@ -1,0 +1,19 @@
+{
+  "name": "chinkitabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "g": "^2.0.1",
+    "npm": "^4.2.0",
+    "request-promise": "^4.1.1",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
