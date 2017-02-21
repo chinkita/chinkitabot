@@ -2,7 +2,7 @@
   "name": "chinkitabot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "botbuilder": "^3.6.0",
     "g": "^2.0.1",
@@ -12,8 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node server.js"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Chinkita Chugh",
   "license": "ISC"
 }
